@@ -1,2 +1,3 @@
 # activity_git
-une activité de git
+une activitéde git 
+pour pratiquer les deux premiers chapitres 
